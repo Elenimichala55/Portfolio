@@ -1,4 +1,4 @@
-Eleni Michala – Portfolio
+# Eleni Michala – Portfolio
 
 MSc Applied Artificial Intelligence @ University of Warwick
 BSc Computer Science @ University of Cyprus
