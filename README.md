@@ -9,7 +9,7 @@ I enjoy building practical systems, optimizing performance, and explaining techn
 
 ### Tech Stack
 - Languages: Python, Java, JavaScript, C, C++, SQL
-- Frameworks: FastAPI, Spring Boot, Django, Wagtail CMS
+- Frameworks: Flask, FastAPI, Spring Boot, Django, Wagtail CMS
 - Tools & Platforms: Docker, Kafka, PostgreSQL, Git, Linux (command line)
 - Specialties: Machine Learning, Neural Networks, Full-Stack Web Development, Microservices, Distributed Systems
 
