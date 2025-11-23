@@ -18,7 +18,7 @@ I enjoy building practical systems, optimizing performance, and explaining techn
 - ### Kohonen Self-Organising Map (Python)
 A full Python implementation of a Kohonen SOM for clustering handwritten English characters.
 Includes custom training/testing pipelines, error visualisation, and tunable parameters (grid size, learning rate, epochs).
-  - Repo: https://github.com/Elenimichala55/kohonen-som
+    - Repo: https://github.com/Elenimichala55/kohonen-som
 
 - ### LMS – Leave Management System (Spring Boot)
 A Spring Boot–based system where employees request leave and managers approve/update/delete requests.
