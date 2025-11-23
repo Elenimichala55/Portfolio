@@ -8,10 +8,10 @@ My work spans machine learning, backend development, and full-stack web applicat
 I enjoy building practical systems, optimizing performance, and explaining technical concepts clearly.
 
 ### Tech Stack
-Languages: Python, Java, JavaScript, C, C++, SQL
-Frameworks: FastAPI, Spring Boot, Django, Wagtail CMS
-Tools & Platforms: Docker, Kafka, PostgreSQL, Git, Linux (command line)
-Specialties: Machine Learning, Neural Networks, Full-Stack Web Development, Microservices, Distributed Systems
+- Languages: Python, Java, JavaScript, C, C++, SQL
+- Frameworks: FastAPI, Spring Boot, Django, Wagtail CMS
+- Tools & Platforms: Docker, Kafka, PostgreSQL, Git, Linux (command line)
+- Specialties: Machine Learning, Neural Networks, Full-Stack Web Development, Microservices, Distributed Systems
 
 # Featured Projects
 
