@@ -15,7 +15,7 @@ I enjoy building practical systems, optimizing performance, and explaining techn
 
 # Featured Projects
 
-- ### Kohonen Self-Organising Map (Python)
+### - Kohonen Self-Organising Map (Python)
 A full Python implementation of a Kohonen SOM for clustering handwritten English characters.
 Includes custom training/testing pipelines, error visualisation, and tunable parameters (grid size, learning rate, epochs).
     - Repo: https://github.com/Elenimichala55/kohonen-som
