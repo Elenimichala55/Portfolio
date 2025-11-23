@@ -50,7 +50,7 @@ A full-stack system for recommending eco-friendly EV charging routes using micro
 - Flask backend with modular API architecture
 - Leaflet.js interactive map (routing, microgrid overlays, charger markers)
 - SQLite database with microgrid, charger, and solar production data
-- Forecast scheduling using APScheduler and OpenWeather integration
+- Forecast scheduling using cron jobs and OpenWeather integration
 - Spatial computation (distances, ETAs, ranking algorithms)
 - Frontend filters, charger panels, microgrid cards & forecast slider
 
