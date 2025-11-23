@@ -36,3 +36,20 @@ Uses FastAPI, Kafka, PostgreSQL, and Docker Compose for event-driven architectur
 Includes producer/consumer logic and database persistence.
 - Repo: https://github.com/Elenimichala55/payments-microservice
 
+# Research Project
+
+## MicroGrid Eco-Charging Network — BSc Dissertation
+
+A full-stack system for recommending eco-friendly EV charging routes using microgrid-powered stations, solar production estimates, and spatial–temporal data.
+
+### Key Features:
+- Flask backend with modular API architecture
+- Leaflet.js interactive map (routing, microgrid overlays, charger markers)
+- SQLite database with microgrid, charger, and solar production data
+- Forecast scheduling using APScheduler and OpenWeather integration
+- Spatial computation (distances, ETAs, ranking algorithms)
+- Frontend filters, charger panels, microgrid cards & forecast slider
+
+Demo Video: https://www.youtube.com/watch?v=CmjFZFbXKDs
+
+Repository: add your repo link here
