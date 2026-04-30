@@ -160,7 +160,7 @@ A distributed microservice implementing asynchronous payment processing.
 
 # Research Project
 
-## MicroGrid Eco-Charging Network — BSc Dissertation
+## EcoCharge+: A Platform for Sustainable EV Charging using Micro Grids — BSc Dissertation
 
 A full-stack system for recommending eco-friendly EV charging routes using microgrid-powered stations, solar production estimates, and spatial-temporal data.
 
@@ -174,6 +174,7 @@ The system is currently deployed on the University of Cyprus Computer Science do
 - Spatial computation for distances, ETAs, and ranking algorithms
 - Frontend filters, charger panels, microgrid cards, and forecast slider
 
+**Ecocharge+ website:** https://ecocharge.cs.ucy.ac.cy/   
 **Live Demo:** https://ecochargeplus.cs.ucy.ac.cy/  
 **Demo Video:** https://www.youtube.com/watch?v=CmjFZFbXKDs  
 **Repository:** https://github.com/dmsl/ecocharge/tree/main/Ecocharge%2B  
