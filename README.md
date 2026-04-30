@@ -121,7 +121,7 @@ A responsive dashboard built using vanilla JavaScript, HTML, and CSS.
 - Responsive UI and animations
 - Search-based city weather lookup
 
-**Repository:** https://github.com/Elenimichala55/weather-dashboard
+**Repository:** https://github.com/Elenimichala55/weather-dashboard  
 **Frontend Demo:** https://elenimichala55.github.io/weather-dashboard/
 
 ---
