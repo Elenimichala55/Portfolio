@@ -43,7 +43,7 @@ The project compares traditional machine learning, a custom CNN, and transfer le
 
 ---
 
-### IntelliSys – Product Review Intelligence Pipeline
+### Amazon Dataset – Product Review Intelligence Pipeline
 
 A machine learning and LLM-based pipeline for analysing Amazon Electronics reviews and extracting actionable product insights.
 
