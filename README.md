@@ -3,6 +3,11 @@
 MSc Applied Artificial Intelligence @ University of Warwick  
 BSc Computer Science @ University of Cyprus
 
+**Portfolio Website:** https://elenimichala55.github.io  
+**GitHub:** https://github.com/Elenimichala55  
+**LinkedIn:** https://www.linkedin.com/in/eleni-michala-aaa5b0365/
+**Email:** elenimichala55@gmail.com
+
 I’m a Computer Science graduate currently pursuing my MSc in Applied AI.  
 My work spans machine learning, deep learning, data analysis, backend development, and full-stack web applications.  
 I enjoy building practical systems, designing end-to-end pipelines, optimizing performance, and explaining technical concepts clearly.
